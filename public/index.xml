@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 May 2025 03:49:40 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Powerful Retrieval-Augmented Generation (RAG) Applications with Vector Databases</title>
+      <link>http://localhost:1313/posts/building_rag/</link>
+      <pubDate>Sun, 04 May 2025 03:49:40 +0530</pubDate>
+      <guid>http://localhost:1313/posts/building_rag/</guid>
+      <description>&lt;p&gt;Large Language Models (LLMs) like Google’s &lt;strong&gt;Gemini&lt;/strong&gt; have revolutionized how we interact with machines—capable of understanding prompts, generating diverse content formats, answering complex questions, and more. However, even the most sophisticated LLMs come with inherent limitations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Knowledge Cutoff:&lt;/strong&gt; They lack awareness of events or data developed after their training date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hallucination Risk:&lt;/strong&gt; They may generate responses that are plausible-sounding but factually incorrect.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No Access to Private Data:&lt;/strong&gt; They can’t natively access your proprietary documents, internal files, or niche knowledge bases.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is where &lt;strong&gt;Retrieval-Augmented Generation (RAG)&lt;/strong&gt; comes in—a technique that enhances LLMs by grounding their responses in external, up-to-date, and domain-specific information. When paired with a &lt;strong&gt;vector database&lt;/strong&gt;, Gemini becomes a much more powerful tool for building intelligent, reliable, and context-aware applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
