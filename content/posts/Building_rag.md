@@ -1,6 +1,6 @@
 +++
 title = 'Building Powerful Retrieval-Augmented Generation (RAG) Applications with Vector Databases'
-date = "2025-05-04T03:49:40+05:30"
+date = "2025-01-04T03:49:40+05:30"
 author = "Jairaj Kumar" # Add your name here
 draft = false # Make sure draft is false if you want it published
 +++

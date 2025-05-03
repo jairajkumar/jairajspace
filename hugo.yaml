@@ -1,6 +1,6 @@
 baseURL: https://jairajkumar.github.io/jairajspace/
 languageCode: en-us
-title: My New Hugo Site
+title: Jairaj's Space
 theme: ["PaperMod"]
 
 outputs:
@@ -43,3 +43,7 @@ params:
     includeMatches: true
     threshold: 0.3
     keys: ["title", "permalink", "summary", "content"]
+
+  footer:
+    # ShowCopyright: false
+    ShowPoweredBy: false
