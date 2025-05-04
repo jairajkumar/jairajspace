@@ -44,6 +44,3 @@ params:
     threshold: 0.3
     keys: ["title", "permalink", "summary", "content"]
 
-  footer:
-    # ShowCopyright: false
-    ShowPoweredBy: false
